@@ -45,7 +45,7 @@ a {
 }
 
 .profile {
-  background: #f00;
+  background: #9099a0;
   width: 40%;
   float: left;
   color: #9099a0;
@@ -214,7 +214,7 @@ a {
   }
 }
 .experience h3.experience-title {
-  color: #f00;
+  color: #66cc99;
   text-align: left;
   text-transform: uppercase;
   font-size: 1.2em;
