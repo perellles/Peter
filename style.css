@@ -16,7 +16,7 @@ body {
 }
 
 a {
-  color: #66cc99;
+  color: #ff2424;
   text-decoration: none;
 }
 
@@ -173,6 +173,7 @@ a {
 .profile .contact-presentation {
   text-align: left;
   font-weight: 300;
+  color: black;
   margin-top: 100px;
   margin-bottom: 100px;
 }
@@ -195,7 +196,7 @@ a {
   left: 0;
 }
 .profile .st0, .profile .st1 {
-  fill: #66cc99;
+  fill: #ff2424;
 }
 
 .experience {
@@ -283,7 +284,7 @@ a {
   padding-right: 8%;
 }
 .section-wrapper h3.section-title {
-  color: #66cc99;
+  color: #ff2424;
   text-align: left;
   text-transform: uppercase;
   font-size: 1.2em;
@@ -305,7 +306,7 @@ a {
 .section-wrapper .skill-percentage::before {
   content: "";
   height: 6px;
-  background: #66cc99;
+  background: #ff2424;
   position: absolute;
   margin-top: 3px;
   bottom: 0;
